@@ -1,0 +1,11 @@
+﻿  Heap_Algorithm.cpp
+c:\users\joe_hogan\source\repos\heap_algorithm\heap_algorithm\heap_algorithm.cpp(174): error C2297: '.*': illegal, right operand has type 'Function'
+          with
+          [
+              Function=int
+          ]
+  c:\users\joe_hogan\source\repos\heap_algorithm\heap_algorithm\heap_algorithm.cpp(84): note: see reference to function template instantiation 'void PlayerHeap::insert<int>(Player,Function)' being compiled
+          with
+          [
+              Function=int
+          ]
